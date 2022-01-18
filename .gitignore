@@ -1,0 +1,9 @@
+target/
+.settings
+.classpath
+.project
+.idea
+build/
+.gradle
+.idea
+Thumbs.db
